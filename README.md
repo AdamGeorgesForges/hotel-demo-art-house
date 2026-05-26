@@ -90,3 +90,6 @@ Live demo: **https://hotel-demo-art-house.pages.dev**
 ## Repository
 
 https://github.com/AdamGeorgesForges/hotel-demo-art-house
+
+<!-- Build trigger: Tue May 26 06:57:26 PM UTC 2026 -->
+

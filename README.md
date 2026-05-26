@@ -1,14 +1,13 @@
-# Project Name
+# The Paper Mill House
 
-This is a modern hospitality website prototype built to demonstrate responsive design, hotel UX, branding direction, and WordPress-ready frontend architecture.
-
-## Purpose
-
-This project is part of a hospitality website demo portfolio for independent hotel website opportunities.
+Hospitality demo — The Paper Mill House
 
 ## Live Demo
+**[hotel-demo-art-house.pages.dev](https://hotel-demo-art-house.pages.dev)**
 
-**[https://hotel-demo-art-house.pages.dev](https://hotel-demo-art-house.pages.dev)**
+## Status
+
+Prototype/demo. Not represented as completed client work.
 
 ## Tech Stack
 
@@ -36,8 +35,3 @@ Booking functionality can be connected through the hotel's existing booking engi
 ## Deployment
 
 Live demo: https://hotel-demo-art-house.pages.dev
-
-## Status
-
-Prototype/demo. Not represented as completed client work.
-

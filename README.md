@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Project Name
 
-## Getting Started
+**The Paper Mill House** — An artsy independent hotel website prototype.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Purpose
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is a hospitality website concept built to demonstrate creative design, gallery-forward aesthetics, local culture emphasis, and WordPress-ready section architecture for independent boutique hotel opportunities.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+> ⚠️ **Status:** Prototype / frontend demo. Not a completed client WordPress project.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Hotel Brand Concept
 
-To learn more about Next.js, take a look at the following resources:
+- **Name:** The Paper Mill House
+- **Location:** 2145 Sawyer Heights Blvd, Houston, TX 77008 (Sawyer Yards Arts District)
+- **Tagline:** "Sleep inside the gallery"
+- **Vibe:** Creative, artsy, gallery-meets-boutique, neighborhood hotspot
+- **Target guest:** Creative professionals, artists, young travelers, culture seekers, design-forward guests
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+- **Next.js 16** (App Router, TypeScript)
+- **React 19**
+- **Tailwind CSS v4**
+- **Framer Motion** (dramatic entrance animations, scroll micro-interactions)
+- **Lucide React** (icon library)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Design Direction
+
+- **Typography:** Bold black font (DM Sans Black or Syne Display), tight tracking
+- **Color palette:** Off-white (#faf8f4), terracotta (#c8534a), charcoal (#1a1a17), warm sage accents
+- **Photography:** Art installations, local murals, gallery spaces, craft cocktails
+- **Layout:** Masonry gallery grid, full-bleed hero, editorial two-column story sections
+- **Motion:** Bold reveals, scale-aware hover states
+
+---
+
+## Sections Included
+
+| Section | Description |
+|---|---|
+| Navigation | Fixed nav with book CTA |
+| Hero | Bold oversized typography over full-bleed art photography |
+| Booking Bar | Check-in / check-out / guests with terracotta styling |
+| Artist Statement | Brand story intro with editorial two-column layout |
+| Rooms & Suites | 6 room types with artist-curated themes, pricing, badges |
+| Gallery | Masonry grid, 8 images, full bleed |
+| Live Music | Weekly music schedule — Thu/Sun with genre and time info cards |
+| Amenities Grid | 6 creative features: artist studios, Mill Stage, Ink & Grounds cafe, Press Bar, workshops, Book Nook |
+| Neighborhood | 6 local POIs in masonry cards — galleries, restaurants, parks |
+| Testimonial | Single guest quote on dark background |
+| Footer | Contact, nav links, social icons |
+
+---
+
+## WordPress Implementation Path
+
+This prototype can be converted into WordPress using:
+
+- **Custom WordPress theme** — Bespoke design control
+- **Gutenberg block-based sections** — Gallery image blocks, artist profile custom post types
+- **Elementor + custom widgets** — Visual editing with creative layout flexibility
+- **Headless WordPress + Next.js frontend** — WordPress as CMS, Next.js for custom animations and design
+
+**Editable areas for hotel staff:**
+- Room types with artist attribution and descriptions
+- Gallery images with artist credits and exhibition text
+- Live music schedule (weekly updates)
+- Amenity cards and descriptions
+- Neighborhood POI entries
+
+**Booking functionality:**
+Connect through the hotel's existing booking engine, Checkfront, or Fresha widget embed.
+
+---
+
+## Deployment
+
+Live demo: **https://hotel-demo-art-house.pages.dev**
+
+---
+
+## Repository
+
+https://github.com/AdamGeorgesForges/hotel-demo-art-house
